@@ -1,0 +1,102 @@
+.music-body {
+  background: #283593;
+  margin-left: 8vw;
+  margin-right: 8vw;
+}
+
+.principal div {
+  background: #FFFFFF;
+  height: 150px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.redes-sociales {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.redes-sociales img {
+  width: 35px;
+}
+
+.navbar-inverse {
+  background: #ef5350;
+}
+
+.navbar-inverse div {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-inverse div a {
+  color: #FFFFFF;
+}
+
+.navbar-inverse div:hover {
+  background: #ef9a9a;
+}
+
+.container-fluid {
+  margin-top: 10px;
+  margin-left: -15px;
+  margin-right: -15px;
+  background: #FFFFFF;
+}
+
+div .pub {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pub img {
+  width: 90%;
+}
+
+.comentario img {
+  width: 50px;
+}
+
+.card-buscar {
+  padding: 2em;
+}
+
+div li {
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 10px;
+  border: 1px solid;
+}
+
+div li:hover {
+  background: #ffcdd2;
+}
+
+@media (max-width: 770px) {
+
+  .music-body {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  div .redes-sociales {
+    height: 50px;
+  }
+
+  .pub img {
+    width: 50%;
+  }
+}
