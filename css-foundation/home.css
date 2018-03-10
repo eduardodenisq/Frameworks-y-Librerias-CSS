@@ -1,0 +1,45 @@
+.gastro-body {
+  background: url(../img-foundation/cocina.jpg);
+  background-attachment: scroll;
+
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.contenido {
+  background-color: rgba(45, 200, 150, 0.70);
+}
+
+.col1 {
+  background-color: #9e9e9e;
+  padding: 10px;
+  margin: 5px !important;
+}
+
+.enlaces a {
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px black;
+  color: black;
+}
+
+.favs {
+  padding: 10px;
+}
+
+.historial ul {
+  list-style: none;
+  font-size: 1.5em;
+}
+
+.historial a {
+  color: #1b5e20;
+}
+.entrada img {
+  width: 100%;
+}
