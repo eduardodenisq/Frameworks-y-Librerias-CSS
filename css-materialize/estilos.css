@@ -1,0 +1,57 @@
+.turismo-body {
+  background: url(../img-materialize/fondo1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.barra-izq {
+  margin-top: 20px;
+}
+
+.logo img {
+  width: 150px;
+}
+
+.barra-der div {
+  margin-top: 20px;
+}
+
+.botones a {
+  margin: 5px;
+}
+
+.redes-sociales img {
+  width: 35px;
+}
+
+.redes-sociales a {
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fotos {
+  margin-top: 10px;
+}
+
+.fotos div {
+  padding-bottom: 10px !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+}
+
+.fotos img {
+  width: 100%;
+}
+
+.entrada img {
+  margin: 5px;
+}
+
+.perfil img {
+  width: 70%;
+}

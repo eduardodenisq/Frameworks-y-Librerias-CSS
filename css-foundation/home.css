@@ -1,7 +1,6 @@
 .gastro-body {
   background: url(../img-foundation/cocina.jpg);
-  background-attachment: scroll;
-
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
   width: 100%;
